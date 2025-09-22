@@ -1,8 +1,6 @@
 # Flutter-MCP
 
-python mcp-client/client.py
-
-python weather/weather.py
+python mcp-client/client.py weather/weather.py
 
 flutter pub get
 
